@@ -1,2 +1,3 @@
 #iCode Scanner
-This is used to make an dread icode (barcode) codes, 2021.
+
+This is used to make icode (barcode) codes and used to read them, 2021.
