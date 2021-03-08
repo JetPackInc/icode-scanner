@@ -1,3 +1,2 @@
-#iCode Scanner
-
-This is used to make icode (barcode) codes and used to read them, 2021.
+# iCode Scanner
+This is used to scan codes.
